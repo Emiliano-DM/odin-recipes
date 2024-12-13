@@ -1,0 +1,20 @@
+h1,
+h2,
+h3 {
+    background-color: #7fffd4;
+    font-weight: 500;
+    color: #2b5849;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color: #2b5849;
+}
+
+ul,
+ol,
+p {
+    color: #2b5849;
+    font-family: 'Courier New', Monaco, monospace;
+}
